@@ -7,9 +7,8 @@ Contributed by Liyuan Mo, Jiansen Song.
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-    
     <tr><td colspan="2"><a href="#GraphPrompt">2. GraphPrompt</a></td></tr>
-<tr>
+    <tr>
     <td>&ensp;<a href="#basic-models">2.1 Basic Models</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Backdoor Attack">3. Backdoor Attack</a></td></tr> 
