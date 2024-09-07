@@ -38,10 +38,13 @@ Contributed by Liyuan Mo, Jiansen Song.
 1. **Generalized Graph Prompt: Toward a Unification of Pre-Training and Downstream Tasks on Graphs** SIGIR, 2023. [paper](https://dl.acm.org/doi/10.1145/3539618.3591641) [code](https://github.com/WenZhihao666/G2P2)
 1. **GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks** WWW, 2023. [paper](http://arxiv.org/abs/2302.08043) [code]()
 1. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** WWW, 2024. [paper](http://arxiv.org/abs/2310.15318) [code]()
+1. **HGPrompt: Bridging Homogeneous and Heterogeneous Graphs for Few-Shot Prompt Learning** AAAI, 2024. [paper](https://arxiv.org/abs/2312.01878) [code]()
+1. **Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs** KDD, 2024. [paper](http://arxiv.org/abs/2407.15431) [code](https://github.com/THUDM/P2TAG)
 
 ### [LLM Models](#content)
 
 1. **GraphGPT: Graph Instruction Tuning for Large Language Models.** SIGIR, 2024. [paper](http://arxiv.org/abs/2310.13023) [code](https://github.com/HKUDS/GraphGPT)
+2. **Graph Intelligence with Large Language Models and Prompt Learning.** KDD, 2024. [paper](https://dl.acm.org/doi/10.1145/3637528.3671456) [code]()
 
 
 ## [Backdoor Attack](#content)
@@ -61,4 +64,5 @@ Contributed by Liyuan Mo, Jiansen Song.
 
 1. **Temporal Dynamics-Aware Adversarial Attacks on Discrete-Time Dynamic Graph Models.** KDD, 2023. [paper](https://dl.acm.org/doi/10.1145/3580305.3599517)
 1. **AN LLM CAN FOOL ITSELF: A PROMPT-BASED ADVERSARIAL ATTACK** ICLR, 2024. [paper](https://arxiv.org/abs/2310.13345) [code](https://github.com/GodXuxilie/PromptAttack)
+1. **Task and Model Agnostic Adversarial Attack on Graph Neural Networks** AAAI, 2023. [paper](http://arxiv.org/abs/2112.13267) [code](https://github.com/idea-iitd/TANDIS)
 
