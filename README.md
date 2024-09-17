@@ -40,6 +40,7 @@ Contributed by Liyuan Mo, Jiansen Song.
 1. **HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks** WWW, 2024. [paper](http://arxiv.org/abs/2310.15318) [code]()
 1. **HGPrompt: Bridging Homogeneous and Heterogeneous Graphs for Few-Shot Prompt Learning** AAAI, 2024. [paper](https://arxiv.org/abs/2312.01878) [code]()
 1. **Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs** KDD, 2024. [paper](http://arxiv.org/abs/2407.15431) [code](https://github.com/THUDM/P2TAG)
+1. **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** ecml-pkdd, 2024. [paper](http://arxiv.org/abs/2310.10362) [code](https://github.com/gongchenghua/Self-Pro)
 
 ### [LLM Models](#content)
 
